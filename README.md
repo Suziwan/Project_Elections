@@ -1,9 +1,13 @@
 # Project_Elections
 Week 4 - Crash Test Project: Data analysis for presidential elections candidate
 
-## Demande client
+## Outils
+Gestion de projet : [Notion](https://www.notion.so/83fda92127df4fce8f84e8f9be57c895?v=d877e34040724306a937c004052af2d7&pvs=4)  
+Présentation : [Canva](https://www.canva.com/design/DAFi_AY_bvs/OP4B5WwwcTtPqCEp9s8pfw/edit?utm_content=DAFi_AY_bvs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
-### Formulation originelle
+## Jour 1 : Présentation du Cahier des Charges
+
+### Demande client
 
 > "Je suis très intéressé par votre profil car je recherche plusieurs personnes qui **pourraient me fournir des analyses de données assez poussées sur les résultats obtenus aux élections présidentielles** d'avril 2022.
 > 
@@ -23,18 +27,7 @@ Week 4 - Crash Test Project: Data analysis for presidential elections candidate
 >
 > A votre disposition si vous avez besoin d'informations complémentaires."
 
-### Formulation opérationnelle : Quelle est notre mission ?
-
-- Identifier les circonscriptions où les chances de victoire sont maximales
-- Pour cela, il faudra **répondre aux questions originelles**, et déterminer quelles autres analyses supplémentaires il est nécessaire de mener pour définir une stratégie
-- Stratégies possibles (à modifier, pour l’instant d’après les questions de base)
-    1. **Stratégie de l’affrontement :** aller là où la droite domine. Existe-t-il une population susceptible de voter à gauche mais délaissée ? 
-    2. **Stratégie de la concurrence :** aller là où la gauche domine. Parier sur le fait de se positionner entre les partis de gauche déjà présents et / ou les doubler sur les catégories qu’ils convoitent et qu’on suppose majoritaires
-    3. **Stratégie de la motivation :** aller là où l’abstention est élevée. S’intéresser à la sociologie des abstentionnistes et mettre en place une offre qui les fera se déplacer si cela est possible 
-    4. **Stratégie de l’unification :** aller là où les votes sont très hétérogènes. Dépendra de ce qui explique cette hétérogénéité, il va falloir formuler des hypothèses
-- Se pose enfin la question du positionnement politique : “gauche” d’accord, mais plus précisément ? Dépendra spécifiquement des espaces politiques exploitables.
-
-## Rendu attendu
+### Rendu attendu
 Une présentation synthétique contenant :
 - Présentation
 - Problème à résoudre
@@ -44,4 +37,6 @@ Une présentation synthétique contenant :
 - Le cadrage du projet
 - La timeline du projet
 
-Voir fichier PDF joint **"Cahier_des_Charges_Projet.pdf"**. 
+Voir la présentation sur le fichier PDF joint **"Cahier_des_Charges_Projet.pdf"** ou sur ce lien [Canva](https://www.canva.com/design/DAFi_AY_bvs/OP4B5WwwcTtPqCEp9s8pfw/edit?utm_content=DAFi_AY_bvs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+
+## Jour 2 : Préparation des données
