@@ -1,5 +1,6 @@
 # Project_Elections
-Week 4 - Crash Test Project: Data analysis for presidential elections candidate
+Week 4 - Crash Test Project: Data analysis for elections candidate.  
+The following project was done in French.
 
 ## Outils
 Gestion de projet : [Notion](https://www.notion.so/83fda92127df4fce8f84e8f9be57c895?v=d877e34040724306a937c004052af2d7&pvs=4)  
