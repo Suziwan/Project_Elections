@@ -41,3 +41,5 @@ Une présentation synthétique contenant :
 Voir la présentation sur le fichier PDF joint **"Cahier_des_Charges_Projet.pdf"** ou sur ce lien [Canva](https://www.canva.com/design/DAFi_AY_bvs/OP4B5WwwcTtPqCEp9s8pfw/edit?utm_content=DAFi_AY_bvs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 ## Jour 2 : Préparation des données
+
+## Jour 3 : Cadrage et traitement des données
