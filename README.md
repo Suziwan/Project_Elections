@@ -47,3 +47,8 @@ Voir la présentation sur le fichier PDF joint **"Cahier_des_Charges_Projet.pdf"
 ## Jour 3 : Cadrage et traitement des données
 
 ## Jour 4 : Analyse et visualisation des données
+
+## Jour 5 : Présentation des résultats
+[Canva](https://www.canva.com/design/DAFjRZlfuWs/n2W2FGfz6oRFkmDYe1m_4g/edit)
+
+
