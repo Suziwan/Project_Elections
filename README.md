@@ -42,6 +42,8 @@ Voir la présentation sur le fichier PDF joint **"Cahier_des_Charges_Projet.pdf"
 
 ## Jour 2 : Préparation des données
 
+<img src=/Diagram_Elections.JPG width="700">
+
 ## Jour 3 : Cadrage et traitement des données
 
 ## Jour 4 : Analyse et visualisation des données
